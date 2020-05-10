@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": "092b16c0-9271-11ea-9721-5bf1f9c89a27",
+      "name": "Cristihan",
+      "email": "cristian@gmail.com",
+      "idn": "24215288",
+      "canApplyForCredit": false
+    },
+    {
+      "id": "79c22db0-9271-11ea-87e6-d95b574af866",
+      "name": "test",
+      "email": "test@gmail.com",
+      "idn": "32432",
+      "canApplyForCredit": false
+    },
+    {
+      "id": "9653de60-9271-11ea-bf6d-352f648e37c1",
+      "name": "josh",
+      "email": "josh@gmail.clom",
+      "idn": "2343232",
+      "canApplyForCredit": false
+    },
+    {
+      "id": "d7685480-9271-11ea-abb1-1db8c87f7d3e",
+      "name": "crisithan",
+      "email": "cristna@gmail.com",
+      "idn": "3342432",
+      "canApplyForCredit": false
+    }
+  ],
+  "credits": [
+    {
+      "id": "092b16c1-9271-11ea-9721-5bf1f9c89a27",
+      "creditStatus": "Rechazado",
+      "amount": "32422",
+      "paid": "no",
+      "userId": "092b16c0-9271-11ea-9721-5bf1f9c89a27"
+    },
+    {
+      "id": "79c22db1-9271-11ea-87e6-d95b574af866",
+      "creditStatus": "Aprobado",
+      "amount": "32432",
+      "paid": "no",
+      "userId": "79c22db0-9271-11ea-87e6-d95b574af866"
+    },
+    {
+      "id": "9653de61-9271-11ea-bf6d-352f648e37c1",
+      "creditStatus": "Rechazado",
+      "amount": "42332",
+      "paid": "no",
+      "userId": "9653de60-9271-11ea-bf6d-352f648e37c1"
+    },
+    {
+      "id": "d7685481-9271-11ea-abb1-1db8c87f7d3e",
+      "creditStatus": "Aprobado",
+      "amount": "10000",
+      "paid": "no",
+      "userId": "d7685480-9271-11ea-abb1-1db8c87f7d3e"
+    }
+  ]
+}
