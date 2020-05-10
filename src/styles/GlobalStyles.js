@@ -12,9 +12,8 @@ const GlobalStyles = createGlobalStyle`
   }
 
   body {
-    height: 100vh;
     margin:0;
-    background: #ddd;
+    background: #fff;
     overscroll-behavior: none;
     width: 100%;
   }
